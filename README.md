@@ -21,7 +21,7 @@ Tools and Libraries Used
 How to Run / View the Project
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Cnamadi/python-assignment-week-8.git
 
    Navigate to the project folder.
 
